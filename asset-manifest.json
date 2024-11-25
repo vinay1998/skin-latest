@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.59585d9c.css",
+    "main.js": "/static/js/main.9c48a2fc.js",
+    "static/media/Skin-Anatomy.mp4": "/static/media/Skin-Anatomy.25408c842e5a18a0d786.mp4",
+    "static/media/Intro-Common.mp4": "/static/media/Intro-Common.2c37ffe0b125720a7fdf.mp4",
+    "static/media/barrier.png": "/static/media/barrier.4b358c53e7353ecf6760.png",
+    "static/media/homeostsis.png": "/static/media/homeostsis.b6365a9ec1bce68a551d.png",
+    "static/media/endocrine.png": "/static/media/endocrine.4322031784c9e78a8d2a.png",
+    "static/media/sensory.png": "/static/media/sensory.20fcdfdad5e20fb03a39.png",
+    "static/media/healthindicator.png": "/static/media/healthindicator.7fb91ffd55fb2b4fd464.png",
+    "static/media/Convatec-footer-logo.png": "/static/media/Convatec-footer-logo.0fa52c5690de142f1b7d.png",
+    "static/media/defence.png": "/static/media/defence.9733f54337dd7dd7a5ea.png",
+    "static/media/skin.png": "/static/media/skin.d4bb833e1b7646371d46.png",
+    "index.html": "/index.html",
+    "main.59585d9c.css.map": "/static/css/main.59585d9c.css.map",
+    "main.9c48a2fc.js.map": "/static/js/main.9c48a2fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59585d9c.css",
+    "static/js/main.9c48a2fc.js"
+  ]
+}
