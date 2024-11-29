@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bbef29a9.css",
+    "main.js": "/static/js/main.9f56b02c.js",
+    "static/media/skinanatomy.mp4": "/static/media/skinanatomy.25408c842e5a18a0d786.mp4",
+    "static/media/overview.mp4": "/static/media/overview.73ea80faa387e0388e14.mp4",
+    "static/media/barrier.png": "/static/media/barrier.4b358c53e7353ecf6760.png",
+    "static/media/homeostsis.png": "/static/media/homeostsis.b6365a9ec1bce68a551d.png",
+    "static/media/endocrine.png": "/static/media/endocrine.4322031784c9e78a8d2a.png",
+    "static/media/sensory.png": "/static/media/sensory.20fcdfdad5e20fb03a39.png",
+    "static/media/healthindicator.png": "/static/media/healthindicator.7fb91ffd55fb2b4fd464.png",
+    "static/media/Convatec-footer-logo.png": "/static/media/Convatec-footer-logo.0fa52c5690de142f1b7d.png",
+    "static/media/defence.png": "/static/media/defence.9733f54337dd7dd7a5ea.png",
+    "static/media/CodecWarm-ExtraBold.ttf": "/static/media/CodecWarm-ExtraBold.0f1b8ff8a87f3b1948b1.ttf",
+    "static/media/CodecWarm-Bold.ttf": "/static/media/CodecWarm-Bold.451bb9ecc13ba1a3cbbd.ttf",
+    "static/media/CodecWarm-Regular.ttf": "/static/media/CodecWarm-Regular.d031a5ce4eab7f96dbc6.ttf",
+    "static/media/CodecWarm-Light.ttf": "/static/media/CodecWarm-Light.f89cd67945e6b9f2505b.ttf",
+    "static/media/Q1.jpg": "/static/media/Q1.2bebfb9baec363bdac06.jpg",
+    "index.html": "/index.html",
+    "static/media/Codec-Warm-Bold.otf": "/static/media/Codec-Warm-Bold.6c76f152c6c92f070a8b.otf",
+    "static/media/Codec-Warm-ExtraBold.otf": "/static/media/Codec-Warm-ExtraBold.6c76f152c6c92f070a8b.otf",
+    "static/media/Codec-Warm-Light.otf": "/static/media/Codec-Warm-Light.6c76f152c6c92f070a8b.otf",
+    "static/media/Codec-Warm-Regular.otf": "/static/media/Codec-Warm-Regular.6c76f152c6c92f070a8b.otf",
+    "static/media/Codec-Warm-Bold-Italic.otf": "/static/media/Codec-Warm-Bold-Italic.31d6cfe0d16ae931b73c.otf",
+    "static/media/Codec-Warm-Bold-Italic.ttf": "/static/media/Codec-Warm-Bold-Italic.31d6cfe0d16ae931b73c.ttf",
+    "static/media/Codec-Warm-Bold-Italic.woff": "/static/media/Codec-Warm-Bold-Italic.31d6cfe0d16ae931b73c.woff",
+    "static/media/Codec-Warm-Bold.woff": "/static/media/Codec-Warm-Bold.31d6cfe0d16ae931b73c.woff",
+    "static/media/Codec-Warm-ExtraBold.woff": "/static/media/Codec-Warm-ExtraBold.31d6cfe0d16ae931b73c.woff",
+    "static/media/Codec-Warm-Light.woff": "/static/media/Codec-Warm-Light.31d6cfe0d16ae931b73c.woff",
+    "static/media/Codec-Warm-Regular.woff": "/static/media/Codec-Warm-Regular.31d6cfe0d16ae931b73c.woff",
+    "main.bbef29a9.css.map": "/static/css/main.bbef29a9.css.map",
+    "main.9f56b02c.js.map": "/static/js/main.9f56b02c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbef29a9.css",
+    "static/js/main.9f56b02c.js"
+  ]
+}
